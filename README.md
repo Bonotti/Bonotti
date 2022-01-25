@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bonotti
+- 👀 I’m interested in Software Development and Games Development
+- 🌱 I’m currently learning Flutter, Unity 3D and AR
+- 💞️ I’m looking to collaborate on Mobile Apps or Games projects
+- 📫 How to reach me : sig.bonotti@gmail.com
